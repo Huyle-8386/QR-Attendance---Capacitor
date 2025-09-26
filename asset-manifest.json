@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR-Attendance---Capacitor/static/css/main.b726b339.css",
+    "main.js": "/QR-Attendance---Capacitor/static/js/main.b5b019e1.js",
+    "static/js/453.b2b8008a.chunk.js": "/QR-Attendance---Capacitor/static/js/453.b2b8008a.chunk.js",
+    "index.html": "/QR-Attendance---Capacitor/index.html",
+    "main.b726b339.css.map": "/QR-Attendance---Capacitor/static/css/main.b726b339.css.map",
+    "main.b5b019e1.js.map": "/QR-Attendance---Capacitor/static/js/main.b5b019e1.js.map",
+    "453.b2b8008a.chunk.js.map": "/QR-Attendance---Capacitor/static/js/453.b2b8008a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b726b339.css",
+    "static/js/main.b5b019e1.js"
+  ]
+}
